@@ -1,2 +1,2 @@
-# react-lessions
-egghead
+# React Lessions
+learning from egghead
